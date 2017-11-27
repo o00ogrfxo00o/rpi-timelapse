@@ -6,11 +6,13 @@ Mit diesem Container können alle Einzelbilder eines Verzeichnisses in ein Video
 
 Folgende Optionen können angegeben werden:
 
-OUTFILE (Vorgabe:out.mp4)
-BITRATE (Vorgabe:7000)
-FPS (Vorgabe:25)
-TYPE (Vorgabe:jpg)
-SCALE (Vorgabe:1280:720)
+|Option|Vorgabe|
+|---|---|
+|OUTFILE|out.mp4|
+|BITRATE|7000|
+|FPS|25|
+|TYPE|jpg|
+|SCALE|1280:720|
 
 *Beispiel*:
 
