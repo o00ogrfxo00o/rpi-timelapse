@@ -9,9 +9,7 @@ Folgende Optionen können angegeben werden:
 |Option|Vorgabe|
 |---|---|
 |OUTFILE|out.mp4|
-|BITRATE|7000|
 |FPS|25|
-|TYPE|jpg|
 |SCALE|1280:720|
 
 *Beispiel*:
