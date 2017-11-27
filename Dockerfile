@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:wheezy
+FROM resin/rpi-raspbian:stretch
 LABEL maintainer="o00ogrfxo00o@gmail.com"
 
 RUN apt-get update && apt-get install -y \
